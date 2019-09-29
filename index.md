@@ -1,7 +1,7 @@
 # Carl Fukawa
 
 ## Contact
-- [email](cfukawa@gmail.com)
+- [email](mailto:cfukawa@gmail.com)
 
 ## Education
 - **MiraCosta College**
