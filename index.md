@@ -1,3 +1,5 @@
+![profile image](profilepic.jpg)
+
 # Carl Fukawa
 
 ## Contact
