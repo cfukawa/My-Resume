@@ -37,38 +37,21 @@ held Secret Security Clearance. Proficient coding with Java, Python, Ruby, C++, 
 
 ## SKILLS
 - **Coding**
-  - Java
-  - Python
-  - Ruby
-  - C++
-  - C#
-  - C
+  - Java, Python, Ruby, C++, C#, C
 - **Technologies**
-  - Android
-  - Spring Framework
-  - MongoDB
-  - MySQL
-  - PostgreSQL
-  - Microsoft Access
-  - Linux
-  - Git
+  - Android, Spring Framework, MongoDB, MySQL, PostgreSQL, Microsoft Access, Linux, Git
   
 ## AWARDS & HONORS
 - **California State Polytechnic University, Pomona**
   - President’s Honor List
       - June 2021
   - Dean’s Honor List
-      - December 2020
-      - May 2021
-      - December 2021
+      - December 2020, May 2021, December 2021
 - **MiraCosta College**
   - President’s Permanent Honor Roll
       - May 2020
   - President’s List
-      - December 2018
-      - May 2019
-      - December 2019
-      - May 2020
+      - December 2018, May 2019, December 2019, May 2020
 - **United States Marine Corps**
   - Navy Certificate of Commendation for leadership while overseas.
       - October 2017
